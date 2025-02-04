@@ -1,4 +1,5 @@
 #include<stdio.h>
-int main{
+int main()
   print("hello");
+print("welcome to vbit");
 }
